@@ -1,0 +1,4 @@
+adc0 violet sense+
+adc1 violet sense-
+adc2 orange sense+
+adc3 orange sense-
